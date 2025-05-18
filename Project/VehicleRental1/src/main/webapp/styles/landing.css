@@ -1,0 +1,51 @@
+
+.top-im{
+    width: 100%;
+    height: 70%;
+    object-fit: contain;
+    /*border-radius: 81% 19% 83% 17% / 34% 20% 80% 66% ;*/
+
+}
+
+.quote1{
+    position: relative;
+    top: 6em;
+}
+
+/*<uniquifier>: Use a unique and descriptive class name
+ <weight>: Use a value from 400 to 900*/
+
+.font1 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.card{
+    width: 25%;
+    padding: 20px;
+    margin: 20px;
+
+
+}
+
+.sec-2{
+
+    position: relative;
+    top: -30px;
+
+
+
+}
+
+.card{
+
+    padding: 20px;
+
+}
+
+.sec-1{
+    
+    
+}

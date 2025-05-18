@@ -1,0 +1,110 @@
+@charset "UTF-8";
+.main-cont {
+    background-color: rgb(244, 244, 244);
+}
+
+.slidebar{
+    min-height: 100vh;
+    padding: 1.2rem;
+    background-color: rgb(255, 254, 254);
+}
+
+.slidebar a {
+    display: block;
+    text-decoration: none;
+    padding: 10px 15px;
+    margin-bottom: 3px;
+    color: #333;
+    display: flex;
+    justify-content: space-between;
+    /* color: #fff; */
+}
+
+.slidebar a:hover {
+    color: #fff;
+    background: linear-gradient(106.5deg, rgba(255, 215, 185, 0.91) 23%, rgba(223, 159, 247, 0.8) 93%);
+    /* background: linear-gradient(to right, rgb(173, 83, 137), rgb(60, 16, 83)); */
+}
+
+/* TODO BUTTON */
+.ToDo-List a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right, rgb(173, 83, 137), rgb(60, 16, 83));
+    color: #fff;
+}
+
+
+/* PROFILE PIC */
+.profile-pic {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* PROFILE DETAILS BUTTON */
+.profile-pic-name {
+	display: flex;
+    align-items: center;
+    justify-content: center;
+  /*  width: 250px; */
+    
+}
+
+.click-btn {
+	display: flex;
+	justify-content: space-between;
+	border: none;
+	padding: 12px 10px;
+	background-color: #fff;
+	width: 250px
+}
+
+.click-btn:hover {
+	color: #fff;
+	background: linear-gradient(106.5deg, rgba(255, 215, 185, 0.91) 23%, rgba(223, 159, 247, 0.8) 93%);
+}
+
+/* SINGLE CUSTOMER PAGE */
+.card {
+    border-radius: 10px;
+}
+
+.card-header {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+p {
+    margin-bottom: 0.5rem;
+}
+.allCus-btn {
+	margin-top: 15px;
+}
+
+.update-btn-cont {
+	margin: 10px 5rem;
+	
+}
+
+
+.form {
+	width: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
